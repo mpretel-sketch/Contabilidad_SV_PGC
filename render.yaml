@@ -20,4 +20,4 @@ services:
     staticPublishPath: web/dist
     envVars:
       - key: VITE_API_BASE_URL
-        value: https://back-contabilidad-sv-pgc.onrender.com
+        value: https://back-contabilidad-sv-pgc-onrender-com.onrender.com
