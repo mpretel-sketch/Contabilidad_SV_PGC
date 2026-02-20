@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: back-contabilidad-sv-pgc
+    runtime: node
+    plan: free
+    rootDir: .
+    buildCommand: npm --prefix server install
+    startCommand: npm --prefix server run start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: 20
+      - key: DATA_DIR
+        value: /opt/render/project/src/server/data
+
+  - type: static
+    name: front-contabilidad-sv-pgc
+    rootDir: .
+    buildCommand: npm install && npm --prefix web install && npm --prefix web run build
+    staticPublishPath: web/dist
+    envVars:
+      - key: VITE_API_BASE_URL
+        value: https://back-contabilidad-sv-pgc.onrender.com
