@@ -1,0 +1,12 @@
+node_modules/
+server/node_modules/
+web/node_modules/
+web/dist/
+.DS_Store
+*.log
+/tmp/
+server/data/*.db
+python_app/__pycache__/
+python_app/*.pyc
+python_app/data/*.db
+exports/*.xlsx

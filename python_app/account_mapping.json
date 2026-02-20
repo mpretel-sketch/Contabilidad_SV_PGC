@@ -1,0 +1,578 @@
+{
+  "101": {
+    "pgc": "570",
+    "pgcName": "Caja, euros",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Efectivo y equivalentes"
+  },
+  "110": {
+    "pgc": "480",
+    "pgcName": "Gastos anticipados",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Periodificaciones"
+  },
+  "111": {
+    "pgc": "4709",
+    "pgcName": "H.P. deudora por devolucion de impuestos",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "112": {
+    "pgc": "473",
+    "pgcName": "H.P. retenciones y pagos a cuenta",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "115": {
+    "pgc": "4720",
+    "pgcName": "H.P. IVA soportado",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "116": {
+    "pgc": "4720",
+    "pgcName": "H.P. IVA soportado (pte. de pago)",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "117": {
+    "pgc": "407",
+    "pgcName": "Anticipos a proveedores",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Deudores comerciales"
+  },
+  "122": {
+    "pgc": "218",
+    "pgcName": "Elementos de transporte",
+    "grupo": "Activo No Corriente",
+    "subgrupo": "Inmovilizado material"
+  },
+  "123": {
+    "pgc": "216",
+    "pgcName": "Mobiliario",
+    "grupo": "Activo No Corriente",
+    "subgrupo": "Inmovilizado material"
+  },
+  "124": {
+    "pgc": "217",
+    "pgcName": "Equipos para procesos de informacion",
+    "grupo": "Activo No Corriente",
+    "subgrupo": "Inmovilizado material"
+  },
+  "142": {
+    "pgc": "260",
+    "pgcName": "Fianzas constituidas a largo plazo",
+    "grupo": "Activo No Corriente",
+    "subgrupo": "Inversiones financieras LP"
+  },
+  "204": {
+    "pgc": "438",
+    "pgcName": "Anticipos de clientes",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Acreedores comerciales"
+  },
+  "206": {
+    "pgc": "4770",
+    "pgcName": "H.P. IVA repercutido",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "207": {
+    "pgc": "4770",
+    "pgcName": "H.P. IVA repercutido (pte. cobro)",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "212": {
+    "pgc": "465",
+    "pgcName": "Remuneraciones pendientes de pago",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Otros pasivos"
+  },
+  "213": {
+    "pgc": "171",
+    "pgcName": "Deudas a largo plazo",
+    "grupo": "Pasivo No Corriente",
+    "subgrupo": "Deudas a LP"
+  },
+  "302": {
+    "pgc": "112",
+    "pgcName": "Reserva legal",
+    "grupo": "Patrimonio Neto",
+    "subgrupo": "Fondos propios"
+  },
+  "303": {
+    "pgc": "129",
+    "pgcName": "Resultado del ejercicio",
+    "grupo": "Patrimonio Neto",
+    "subgrupo": "Fondos propios"
+  },
+  "401": {
+    "pgc": "705",
+    "pgcName": "Prestaciones de servicios",
+    "grupo": "Ingresos",
+    "subgrupo": "Importe neto cifra negocios"
+  },
+  "402": {
+    "pgc": "709",
+    "pgcName": "Rappels sobre ventas",
+    "grupo": "Ingresos",
+    "subgrupo": "Importe neto cifra negocios"
+  },
+  "701": {
+    "pgc": "668",
+    "pgcName": "Diferencias negativas de cambio",
+    "grupo": "Gastos Financieros",
+    "subgrupo": "Resultado financiero"
+  },
+  "702": {
+    "pgc": "768",
+    "pgcName": "Diferencias positivas de cambio",
+    "grupo": "Ingresos Financieros",
+    "subgrupo": "Resultado financiero"
+  },
+  "801": {
+    "pgc": "678",
+    "pgcName": "Gastos excepcionales",
+    "grupo": "Gastos",
+    "subgrupo": "Otros resultados"
+  },
+  "803": {
+    "pgc": "678",
+    "pgcName": "Gastos excepcionales (no deducibles)",
+    "grupo": "Gastos",
+    "subgrupo": "Otros resultados"
+  },
+  "806": {
+    "pgc": "759",
+    "pgcName": "Ingresos por servicios diversos",
+    "grupo": "Ingresos",
+    "subgrupo": "Otros ingresos de explotacion"
+  },
+  "102-001": {
+    "pgc": "572",
+    "pgcName": "Bancos e instituciones de credito c/c vista, euros",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Efectivo y equivalentes"
+  },
+  "102-002": {
+    "pgc": "573",
+    "pgcName": "Bancos e instituciones de credito c/c vista, moneda extranjera",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Efectivo y equivalentes"
+  },
+  "104-001": {
+    "pgc": "430",
+    "pgcName": "Clientes",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Deudores comerciales"
+  },
+  "104-002": {
+    "pgc": "4304",
+    "pgcName": "Clientes, moneda extranjera",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Deudores comerciales"
+  },
+  "108-001": {
+    "pgc": "460",
+    "pgcName": "Anticipos de remuneraciones",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Otros deudores"
+  },
+  "108-004": {
+    "pgc": "440",
+    "pgcName": "Deudores",
+    "grupo": "Activo Corriente",
+    "subgrupo": "Otros deudores"
+  },
+  "135-003": {
+    "pgc": "2818",
+    "pgcName": "Amort. acum. elementos de transporte",
+    "grupo": "Activo No Corriente",
+    "subgrupo": "Amortizacion acumulada"
+  },
+  "135-004": {
+    "pgc": "2816",
+    "pgcName": "Amort. acum. mobiliario",
+    "grupo": "Activo No Corriente",
+    "subgrupo": "Amortizacion acumulada"
+  },
+  "135-005": {
+    "pgc": "2817",
+    "pgcName": "Amort. acum. equipos proceso informacion",
+    "grupo": "Activo No Corriente",
+    "subgrupo": "Amortizacion acumulada"
+  },
+  "201-001": {
+    "pgc": "400",
+    "pgcName": "Proveedores",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Acreedores comerciales"
+  },
+  "201-002": {
+    "pgc": "4004",
+    "pgcName": "Proveedores, moneda extranjera",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Acreedores comerciales"
+  },
+  "203-003-001": {
+    "pgc": "410",
+    "pgcName": "Acreedores por prestaciones de servicios",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Otros acreedores"
+  },
+  "203-003-002": {
+    "pgc": "5530",
+    "pgcName": "Socios, c/c (empresas del grupo)",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Deudas empresas grupo CP"
+  },
+  "203-003-003": {
+    "pgc": "5530",
+    "pgcName": "Socios, c/c (empresas del grupo)",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Deudas empresas grupo CP"
+  },
+  "208-001": {
+    "pgc": "4750",
+    "pgcName": "H.P. acreedora por IVA",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "208-003": {
+    "pgc": "4752",
+    "pgcName": "H.P. acreedora por impuesto sobre sociedades",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "208-007": {
+    "pgc": "476",
+    "pgcName": "Organismos de la Seg. Social acreedores",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "210-001": {
+    "pgc": "4751",
+    "pgcName": "H.P. acreedora por retenciones practicadas",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "210-003": {
+    "pgc": "4751",
+    "pgcName": "H.P. acreedora por retenciones practicadas",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "210-004": {
+    "pgc": "4751",
+    "pgcName": "H.P. acreedora por retenciones practicadas",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "210-008": {
+    "pgc": "476",
+    "pgcName": "Organismos de la Seg. Social acreedores",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "210-010": {
+    "pgc": "476",
+    "pgcName": "Organismos de la Seg. Social acreedores",
+    "grupo": "Pasivo Corriente",
+    "subgrupo": "Administraciones Publicas"
+  },
+  "301-001": {
+    "pgc": "100",
+    "pgcName": "Capital social",
+    "grupo": "Patrimonio Neto",
+    "subgrupo": "Fondos propios"
+  },
+  "301-004": {
+    "pgc": "1030",
+    "pgcName": "Socios por desembolsos no exigidos, capital social",
+    "grupo": "Patrimonio Neto",
+    "subgrupo": "Fondos propios"
+  },
+  "304-001": {
+    "pgc": "120",
+    "pgcName": "Remanente",
+    "grupo": "Patrimonio Neto",
+    "subgrupo": "Fondos propios"
+  },
+  "304-002": {
+    "pgc": "121",
+    "pgcName": "Resultados negativos de ejercicios anteriores",
+    "grupo": "Patrimonio Neto",
+    "subgrupo": "Fondos propios"
+  },
+  "601-000-0001": {
+    "pgc": "640",
+    "pgcName": "Sueldos y salarios",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0002": {
+    "pgc": "640",
+    "pgcName": "Sueldos y salarios",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0003": {
+    "pgc": "640",
+    "pgcName": "Sueldos y salarios",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0004": {
+    "pgc": "640",
+    "pgcName": "Sueldos y salarios",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0005": {
+    "pgc": "629",
+    "pgcName": "Otros servicios (dietas/viajes)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0006": {
+    "pgc": "640",
+    "pgcName": "Sueldos y salarios",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0007": {
+    "pgc": "622",
+    "pgcName": "Comunicaciones",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0008": {
+    "pgc": "628",
+    "pgcName": "Suministros (agua)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0009": {
+    "pgc": "628",
+    "pgcName": "Suministros (electricidad)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0010": {
+    "pgc": "625",
+    "pgcName": "Primas de seguros / Vigilancia",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0011": {
+    "pgc": "629",
+    "pgcName": "Otros servicios (material oficina)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0013": {
+    "pgc": "622",
+    "pgcName": "Reparaciones y conservacion",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0014": {
+    "pgc": "625",
+    "pgcName": "Primas de seguros",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0016": {
+    "pgc": "631",
+    "pgcName": "Otros tributos",
+    "grupo": "Gastos",
+    "subgrupo": "Tributos"
+  },
+  "601-000-0017": {
+    "pgc": "669",
+    "pgcName": "Otros gastos financieros (recargos)",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos financieros"
+  },
+  "601-000-0018": {
+    "pgc": "629",
+    "pgcName": "Otros servicios (cuotas)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0019": {
+    "pgc": "627",
+    "pgcName": "Publicidad, propaganda y relaciones publicas",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0020": {
+    "pgc": "621",
+    "pgcName": "Arrendamientos y canones",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0031": {
+    "pgc": "623",
+    "pgcName": "Servicios profesionales independientes",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0033": {
+    "pgc": "626",
+    "pgcName": "Servicios bancarios y similares",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0034": {
+    "pgc": "629",
+    "pgcName": "Otros servicios (limpieza)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0035": {
+    "pgc": "623",
+    "pgcName": "Servicios profesionales independientes",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0036": {
+    "pgc": "629",
+    "pgcName": "Otros servicios (papeleria)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0038": {
+    "pgc": "624",
+    "pgcName": "Transportes",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0039": {
+    "pgc": "642",
+    "pgcName": "Seg. Social a cargo de la empresa (IMSS)",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0040": {
+    "pgc": "642",
+    "pgcName": "Seg. Social a cargo de la empresa (RCV)",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0041": {
+    "pgc": "642",
+    "pgcName": "Seg. Social a cargo de la empresa (Infonavit)",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0044": {
+    "pgc": "641",
+    "pgcName": "Indemnizaciones (antiguedad)",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0045": {
+    "pgc": "641",
+    "pgcName": "Indemnizaciones",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0046": {
+    "pgc": "640",
+    "pgcName": "Sueldos y salarios (festivos)",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0048": {
+    "pgc": "629",
+    "pgcName": "Otros servicios",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0049": {
+    "pgc": "623",
+    "pgcName": "Servicios prof. indep. (comisiones reservas)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0051": {
+    "pgc": "649",
+    "pgcName": "Otros gastos sociales (comedor)",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0052": {
+    "pgc": "628",
+    "pgcName": "Suministros (combustible)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0053": {
+    "pgc": "623",
+    "pgcName": "Servicios prof. independientes (personas morales)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "601-000-0054": {
+    "pgc": "640",
+    "pgcName": "Sueldos y salarios (horas extras)",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos de personal"
+  },
+  "601-000-0055": {
+    "pgc": "631",
+    "pgcName": "Otros tributos (imp. nomina)",
+    "grupo": "Gastos",
+    "subgrupo": "Tributos"
+  },
+  "601-001": {
+    "pgc": "678",
+    "pgcName": "Gastos excepcionales (no deducibles)",
+    "grupo": "Gastos",
+    "subgrupo": "Gastos excepcionales"
+  },
+  "603-000-0001": {
+    "pgc": "623",
+    "pgcName": "Servicios prof. indep. (admon)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "603-000-0002": {
+    "pgc": "623",
+    "pgcName": "Servicios prof. indep. (PF)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "603-000-0003": {
+    "pgc": "623",
+    "pgcName": "Servicios prof. indep. (PM)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "603-000-0004": {
+    "pgc": "623",
+    "pgcName": "Servicios profesionales (legal)",
+    "grupo": "Gastos",
+    "subgrupo": "Servicios exteriores"
+  },
+  "804-003": {
+    "pgc": "6818",
+    "pgcName": "Amort. inmovilizado material (transporte)",
+    "grupo": "Gastos",
+    "subgrupo": "Amortizaciones"
+  },
+  "804-004": {
+    "pgc": "6816",
+    "pgcName": "Amort. inmovilizado material (mobiliario)",
+    "grupo": "Gastos",
+    "subgrupo": "Amortizaciones"
+  },
+  "804-005": {
+    "pgc": "6817",
+    "pgcName": "Amort. inmovilizado material (eq. informatico)",
+    "grupo": "Gastos",
+    "subgrupo": "Amortizaciones"
+  }
+}
