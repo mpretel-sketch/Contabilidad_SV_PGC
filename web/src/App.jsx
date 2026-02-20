@@ -95,7 +95,12 @@ const parseNum = (value) => {
 async function api(path, options = {}) {
   const fallbackProdApi = "https://back-contabilidad-sv-pgc-onrender-com.onrender.com";
   const configuredBase = import.meta.env.VITE_API_BASE_URL || (import.meta.env.PROD ? fallbackProdApi : "");
-  const baseUrl = String(configuredBase || "")
+  const normalizedBase = String(configuredBase || "").trim();
+  const withProtocol =
+    normalizedBase && !/^https?:\/\//i.test(normalizedBase)
+      ? `https://${normalizedBase}`
+      : normalizedBase;
+  const baseUrl = String(withProtocol || "")
     .replace(/\/api\/?$/, "")
     .replace(/\/$/, "");
   const safePath = path.startsWith("/") ? path : `/${path}`;
